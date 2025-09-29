@@ -3,6 +3,7 @@
 # Run locally
 ```
 dotnet run --project hello-world-api
+test
 ```
 Then launch your browser and access http://localhost:5000/api/hello
 
